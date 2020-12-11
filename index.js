@@ -235,7 +235,7 @@ function getArtistByIndex(array, index) {
   return `the artist at index ${array[index].id} is ${array[index].name}`
 }  
 console.log(getArtistByIndex(artists, 8));
-console.log(getArtistByIndex(artists, 0));
+
 
 
 
